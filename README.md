@@ -1,1 +1,2 @@
-Mi primer proyecto de Aplicaciones Web
+- Alumno: Zayra Olvera Hernandez
+- Descripción:Repositorio para la práctica 1 de Aplicaciones Web, contiene la configuración inicial, archivos principales y estructura del proyecto.
